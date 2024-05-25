@@ -4,21 +4,21 @@ Welcome to the Instagram Clone built with Flutter. This project is an implementa
 
 ## Table of Contents
 
-- [Features]
-- [Screenshots]
-- [Installation]
-- [Usage]
-- [Contributing]
-- [License]
+- Features
+- Screenshots
+- Installation
+- Usage
+- Contributing
+- License
 
 ## Features
 
-- [User authentication (Sign up, Login, Logout)]
-- [View and post photos]
-- [Like and comment on photos]
-- [User profiles]
-- [Follow and unfollow users]
-- [Search functionality]
+- User authentication (Sign up, Login, Logout)
+- View and post photos
+- Like and comment on photos
+- User profiles
+- Follow and unfollow users
+- Search functionality
 
 
 ## Screenshots
