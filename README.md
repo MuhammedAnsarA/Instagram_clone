@@ -1,16 +1,26 @@
-# instagram_clone
+# Instagram Clone with Flutter
 
-A new Flutter project.
+Welcome to the Instagram Clone built with Flutter. This project is an implementation of the basic features of Instagram, including user authentication, photo uploads, likes, comments, and more.
 
-## Getting Started
+## Table of Contents
 
-This project is a starting point for a Flutter application.
+- [Features]
+- [Screenshots]
+- [Installation]
+- [Usage]
+- [Contributing]
+- [License]
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [User authentication (Sign up, Login, Logout)]
+- [View and post photos]
+- [Like and comment on photos]
+- [User profiles]
+- [Follow and unfollow users]
+- [Search functionality]
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Screenshots
+  
+
